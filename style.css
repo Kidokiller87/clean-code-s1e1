@@ -38,14 +38,14 @@
   display: flex;
 }
 .todo, .completed {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .todo-list, .task-header {
-  list-style:none;
+  list-style: none;
 }
 input,button{
-  outline:none;
+  outline: none;
 }
 button {
   background: none;
@@ -143,14 +143,14 @@ ul#completed label {
 
 /* Edit Task */
 ul li input[type=text] {
-  display:none
+  display: none
 }
 
 ul li.todo-list-edit input[type=text] {
-  display:inline-block;
+  display: inline-block;
   width:224px
 }
 
 ul li.todo-list-edit label {
-  display:none;
+  display: none;
 }
