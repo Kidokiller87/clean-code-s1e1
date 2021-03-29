@@ -102,7 +102,6 @@ var editTask=function(){
     listItem.classList.toggle("todo-list-edit");
 };
 
-
 //Delete task.
 var deleteTask=function(){
     console.log("Delete Task...");
